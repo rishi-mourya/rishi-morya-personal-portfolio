@@ -1,0 +1,49 @@
+ [
+   
+    {
+      "name": "Physio Customer App",
+      "desc": "Developed a mobile application for physio customers using Flutter, providing comprehensive information and guidance through voice and video calls with trainers.",
+      "image": "physio.png",
+      "links": {
+        "view": null
+      }
+    },
+    {
+      "name": "Upbot",
+      "desc": "Developed a website using the Flutter frame work during my internship, enabling users to monitor their websites through Upbot.",
+      "image": "no-image.jpg",
+      
+      "links": {
+        "view": null
+      }
+    },
+   
+    {
+      "name": "Banking Management System",
+      "desc": "Developed a desktop GUI application using Python's Tkinter library, allowing users to create new accounts, deposit and withdraw funds, update profiles, and recover passwords.",
+      "image": "no-image.jpg",
+        
+      "links": {
+        "view": null
+      }
+      
+    },
+    {
+      "name": "Indian_shop",
+      "desc": "Developed an E-Commerce website using Python, Django, HTML, CSS, Bootstrap, and SQLite3 database. Implemented features like COD and Net Banking for purchases, a Wishlist for saving favorite products, and Google Maps integration on the Contact page for location tracking.",
+      "image": "indian_shop.png",
+        
+      "links": {
+        "view": "http://example.com/shopping"
+      }
+    },
+    {
+      "name": "Job Search App",
+      "desc": "Designed and developed a job search platform using Flutter, enabling users to find jobs, internships, and part-time positions. This large-scale, ongoing project continuously evolves with new features and improvements for both the website and mobile app",
+      "image": "no-image.jpg",
+      "links": {
+        "view": null
+      }
+    }
+  ]
+
